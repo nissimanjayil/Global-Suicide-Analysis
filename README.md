@@ -1,3 +1,2 @@
 # Global-Suicide-Analysis
-
-[![Deploy](https://globalsuicideanalyse.herokuapp.com/)
+link to the app : https://globalsuicideanalyse.herokuapp.com/
