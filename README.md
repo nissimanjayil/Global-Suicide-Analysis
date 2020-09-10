@@ -1,2 +1,2 @@
 # Global-Suicide-Analysis
-link to the app : https://globalsuicideanalyse.herokuapp.com/
+Dashboard : https://globalsuicideanalyse.herokuapp.com/
